@@ -1,5 +1,5 @@
 {
-  "name": "beer-template",
+  "name": "beer-temple",
   "description": "Your best beer library",
   "version": "0.0.0",
   "license": "MIT",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/anymaniax/beer-template"
+    "url": "https://github.com/anymaniax/beer-temple"
   },
   "scripts": {
     "build": "tsup ./src/index.ts --minify --clean --dts --splitting",
